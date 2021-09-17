@@ -60,6 +60,8 @@ See the full analysis in the Jupyter Notebook or review the presentation deck.
 
 Neptune Consulting can provide additional information by writing to consulting@neptune.com
 
-<<LOGO>>
+![logo](./Graphics/logo.png)
 
 ## Repository Structure ##
+
+![repo structure](./Graphics/image.png)
