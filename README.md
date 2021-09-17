@@ -18,23 +18,23 @@ Data was gethered from IMDb, The Internet Movie Database, Box Office Mojo, and T
 
 The genres with the greatest ROI were Horror, Thriller, and Mystery. The gap between the genre with the highest ROI and the fifth highest is much more significent then the the gap between the top genre and the twentieth.
 
-<<PATRICK IMG>>
+!(/Graphics/'genre by ROI_P.png')
 
 Looking at what other studios were making the Thriller genre was the most popular genre, with the greatest ROI, that other top studios weren't making.
 
-<<JEN IMG 1>>
+!(/Graphics/'top five by studio_J1.png')
 
 Conversly among the least popular movie genres Documentaries had the fewest movies released by top studios yet still had high ROI for those offerings. 
 
-<<JEN IMG 2>>
+!(/Graphics/'bottom five by studio_J2.png')
 
 The number of movies released by studio trends upwards over the course of the year, noticably picking up for the summer blockbuster season and peaking in November as movies release films for consideration in the next year's award season.
 
-<<ALEX 1>>
+!(/Graphics/'release date_all genre.png')
 
 Examining the top three genres by ROI you see that they mirror the overall release trend for the latter half of the year.  From January to May there are far fewer releases with a dip accross genres in April and May.
 
-<<ALEX 2>>
+!(/Graphics/'release date top three.png')
 
 ## Conclusions ##
 Microsoft Studio can leverage the analysis perfomed by taking the following recommendations for their initial suite of releases:
